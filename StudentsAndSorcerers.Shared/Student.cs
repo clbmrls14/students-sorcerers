@@ -19,5 +19,6 @@ namespace StudentsAndSorcerers.Shared
         public int Writing { get; set; } = 1;
         public int Science { get; set; } = 1;
         public int History { get; set; } = 1;
+        public Classroom Classroom { get; set; }
     }
 }

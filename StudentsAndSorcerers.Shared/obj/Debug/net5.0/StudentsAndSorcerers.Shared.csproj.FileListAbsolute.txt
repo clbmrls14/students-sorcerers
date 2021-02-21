@@ -3,3 +3,10 @@ C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj
 C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.AssemblyInfoInputs.cache
 C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.AssemblyInfo.cs
 C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.csproj.CoreCompileInputs.cache
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\bin\Debug\net5.0\StudentsAndSorcerers.Shared.deps.json
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\bin\Debug\net5.0\StudentsAndSorcerers.Shared.dll
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\bin\Debug\net5.0\ref\StudentsAndSorcerers.Shared.dll
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\bin\Debug\net5.0\StudentsAndSorcerers.Shared.pdb
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.dll
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\ref\StudentsAndSorcerers.Shared.dll
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.pdb

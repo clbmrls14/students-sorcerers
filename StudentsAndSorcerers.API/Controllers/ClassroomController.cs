@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace StudentsAndSorcerers.API.Controllers
 {
-    [Route("api/[cotroller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ClassroomController : ControllerBase
     {

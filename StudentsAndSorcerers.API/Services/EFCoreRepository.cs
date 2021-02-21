@@ -9,7 +9,7 @@ namespace StudentsAndSorcerers.API.Services
     public class EFCoreRepository : IDataService
     {
         private readonly ApplicationDbContext dbContext;
-        public EFCoreRepository()
+        public EFCoreRepository(ApplicationDbContext dbContext)
         {
             this.dbContext = dbContext ?? throw new ArgumentNullException(nameof(dbContext));
         }
