@@ -1,0 +1,5 @@
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.csprojAssemblyReference.cache
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.AssemblyInfoInputs.cache
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.AssemblyInfo.cs
+C:\Users\clbmr\source\repos\StudentsAndSorcerers\StudentsAndSorcerers.Shared\obj\Debug\net5.0\StudentsAndSorcerers.Shared.csproj.CoreCompileInputs.cache
