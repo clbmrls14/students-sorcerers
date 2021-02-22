@@ -27,6 +27,9 @@ namespace StudentsAndSorcerers.API.Controllers
         public async Task<List<Classroom>> GetClassrooms() => await dataService.Classrooms.ToListAsync();
 
         [HttpGet("[action]")]
+        public async Task<List<Student>> GetStudentsByClassroom(Classroom classroom) => await dataService.Students.Where(s => s.Classroom == classroom).ToListAsync();
+
+        [HttpGet("[action]")]
         public async Task<List<Student>> GetStudents() => await dataService.Students.ToListAsync();
 
         [HttpGet("[action]")]

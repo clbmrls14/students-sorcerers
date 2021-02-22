@@ -35,7 +35,7 @@ namespace StudentsAndSorcerers.API
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "StudentsAndSorcerers.API", Version = "v1" });
             });
             services.AddControllers();
-            services.AddDbContext<ApplicationDbContext>(options => options.UseNpgsql(convertUrlConnectionString(Configuration["DATABASE_URL"])));
+            services.AddDbContext<ApplicationDbContext>(options => options.UseNpgsql(ConvertUrlConnectionString(Configuration["DATABASE_URL"])));
             services.AddTransient<IDataService, EFCoreRepository>();
             services.AddTransient<ValidationService>();
             services.AddCors(options =>
@@ -72,7 +72,7 @@ namespace StudentsAndSorcerers.API
             });
         }
 
-        private static string convertUrlConnectionString(string url)
+        private static string ConvertUrlConnectionString(string url)
         {
             if (url is null)
             {

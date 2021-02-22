@@ -1,0 +1,24 @@
+﻿@using StudentsAndSorcerers.Shared
+@inject APIService APIService
+
+<h1>Classroom List</h1>
+
+<ul>
+    @foreach (var c in classrooms)
+    {
+        <li style="list-style-type:none;">
+            <h3>@c.Title</h3>
+            <h4>@c.Year</h4>
+        </li>
+    }
+</ul>
+
+@code {
+    public List<Classroom> classrooms { get; private set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        classrooms = new List<Classroom>();
+        classrooms = await APIService.GetClassroomsAsync();
+    }
+}
